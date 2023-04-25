@@ -7,5 +7,3 @@
 
 ### Looking for guidance for Python 
 ### willing work on private projects for learning
-
--- tst --
